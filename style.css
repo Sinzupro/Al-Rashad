@@ -99,13 +99,13 @@ a:hover {
 
 .menu-links {
   position: absolute;
-  top: 100%;
+  top: 10%;
   right: 0;
   background-color: white;
   width: fit-content;
   max-height: 0;
   overflow: hidden;
-  transition: all 0.3 ease-in-out;
+  transition: all 0.3 ease-in-Sout;
 }
 
 .menu-links a {
@@ -154,7 +154,7 @@ a:hover {
 
 section {
   padding-top: 4vh;
-  height: 96vh;
+  height: 60vh;
   margin: 0 10rem;
   box-sizing: border-box;
   min-height: fit-content;
@@ -171,7 +171,7 @@ section {
   display: flex;
   justify-content: center;
   gap: 5rem;
-  height: 80vh;
+  height: 60vh;
 }
 
 .section__pic-container {
@@ -311,7 +311,7 @@ section {
 }
 
 .section-container {
-  gap: 4rem;
+  gap: 2rem;
   height: 80%;
 }
 
@@ -394,7 +394,7 @@ article .icon {
   display: flex;
   justify-content: center;
   flex-direction: column;
-  height: 70vh;
+  height: 90vh;
 }
 
 .contact-info-upper-container {
@@ -431,7 +431,7 @@ article .icon {
 /* FOOTER SECTION */
 
 footer {
-  height: 26vh;
+  height: 10vh;
   margin: 0 1rem;
 }
 
